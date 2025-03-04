@@ -7,5 +7,6 @@
 *.fdb_latexmk
 *.aux
 .envrc
+.env
 bachelor_venv/
 
