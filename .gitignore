@@ -9,4 +9,4 @@
 .envrc
 .env
 bachelor_venv/
-
+*.parquet
